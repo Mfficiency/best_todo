@@ -7,10 +7,23 @@ In search of the ultimate todo list
 2. Get to know flutter.
 3. Improve my knowledge of continuous integration.
 
-## The ultimate todo list
+## 1. The ultimate todo list
 
-### What are the must haves
+### Must haves
 minimal amount of clicks
-automatically move dates
-sorting filtering and search
+startup time on any os < 500 ms
+automatically move dates (v2)
+undo deletes
+swipe actions
 
+### Should haves
+sorting filtering and searching
+### Could haves
+
+### Won't haves
+
+## 2. Get to know flutter
+
+## Interesting links
+
+[MoSCoW-method](https://en.wikipedia.org/wiki/MoSCoW_method)
