@@ -26,12 +26,14 @@ Making sure I don't miss the top rated (4.5 or higher) when going to the play st
 [link to the google play store](https://play.google.com/store/search?q=todo&c=apps&hl=en)
 
 ### Must haves
-minimal amount of clicks
-startup time on any os < 500 ms
-automatically move dates (v2)
-undo deletes
-swipe actions
-android and web
+- minimal amount of clicks  
+- startup time on any os < 500 ms  
+- works online AND offline  
+- indication of sync status
+- automatically move dates (v2)  
+- undo deletes  
+- swipe actions  
+- android and web
 
 ### Should haves
 sorting filtering and searching
@@ -41,18 +43,21 @@ sorting filtering and searching
 
 ### The list of apps
 
-| Name  					|Rating| Raters|Downloads|Widget |Web    |
-|---						|---   |---	   |---	  	 |---	 |---	 |
-| Microsoft To Do  			| 4.5  | 216K  | 10M  	 | true  | true  |
-| Google Tasks  			| 4.5  | 230K  | 10M  	 | true  | true  |
-| Todoist  					| 4.5  | 239K  | 10M  	 | true  | true  |
-| TickTick  				| 4.6  | 95K   | 10M  	 | true  | true  |
-| Gtasks  					| 3.7  | 47K   | 10M  	 | true  | true  |
-| To-Do List  				| 4.6  | 164K  | 10M  	 | true  | true  |
-| Any.do  					| 4.3  | 427K  | 10M  	 | true  | true  |
-| Tasks  					| 4.7  | 102K  | 10M  	 | true  | true  |
-| Simple ToDo List & Tasks  | 5    | 1.7K  | 10M  	 | true  | true  |
-| Memorigi  				| 4.6  | 8K    | 10M  	 | true  | true  |
+View the full list in [this](https://docs.google.com/spreadsheets/d/1uG-3ghtGPfumu62-pJVqZRA9H6cxjDrPcuJHzUsl1ag/edit?usp=sharing) google sheet.
+| Name  					|Rating| Raters|Downloads|Widget |Web    | Date 	|
+|---						|---   |---	   |---	  	 |---	 |---	 |---		|
+| Microsoft To Do  			| 4.5  | 216K  | 10M  	 | true  | true  |24.03.2022|
+| Google Tasks  			| 4.5  | 230K  | 10M  	 | true  | true  |24.03.2022|
+| Todoist  					| 4.5  | 239K  | 10M  	 | true  | true  |24.03.2022|
+| TickTick  				| 4.6  | 95K   | 10M  	 | true  | true  |24.03.2022|
+| Gtasks  					| 3.7  | 47K   | 10M  	 | true  | true  |24.03.2022|
+| To-Do List  				| 4.6  | 164K  | 10M  	 | true  | true  |24.03.2022|
+| Any.do  					| 4.3  | 427K  | 10M  	 | true  | true  |24.03.2022|
+| Tasks  					| 4.7  | 102K  | 10M  	 | true  | true  |24.03.2022|
+| Simple ToDo List & Tasks  | 5    | 1.7K  | 10M  	 | true  | true  |24.03.2022|
+| Memorigi  				| 4.6  | 8K    | 10M  	 | true  | true  |24.03.2022|
+
+
 
 
 ## 2. Get to know flutter
@@ -60,3 +65,4 @@ sorting filtering and searching
 ## Interesting links
 
 [MoSCoW-method](https://en.wikipedia.org/wiki/MoSCoW_method)
+[Todo tutorial]()
